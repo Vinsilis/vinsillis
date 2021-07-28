@@ -1,10 +1,4 @@
-#logo{float: right; z-index: 5; margin-right: 10px; position: relative; display: block}
 
-#text{ width: 500px; height: 100px; float: right; bottom: 0px; position: relative; top: 300px; z-index: 5;
-     border: 1px solid white; border-radius: 300px; background:  red; display: inline-block;position: relative}
-#logo_pic{width: 200px; height: 200px;border: 1px solid white; border-radius: 300px;}
-.action-wrapper{color: white;border: 1px solid white; border-radius: 300px; display: inline-block; padding: 20px }
-.intro-content{display: inline-block}
 
 
 #contact-section .form-wrapper {
